@@ -2,7 +2,6 @@
 const App = () => {
   return (
     <div>
-      App.js file
     </div>
   );
 }
