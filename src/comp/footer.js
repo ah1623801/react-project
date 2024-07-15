@@ -6,7 +6,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <>
-     <footer>
+     <footer className="foo">
   Designed and developed by alicoder.com
   <span>🧡</span>
       </footer> 
